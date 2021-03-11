@@ -1,6 +1,6 @@
 ## AMBER-LAB :zap:
 
-Hello :wave: my name is Leonardo Bernardino :zap: I am a self-tought developer since 2016. During this time, i've learned Python, PHP, HTML, CSS, JS, MySQL, SQLite3. I also work with eletronics and repairments.
+Hello :wave: my name is Leonardo Amber :zap: I am a self-tought developer since 2016. During this time, i've learned Python, PHP, HTML, CSS, JS, MySQL, SQLite3. I also work with eletronics and repairments.
 
 - :telescope: Looking for an professional internship oportunity
 - :microscope: Currently studying networks

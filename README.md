@@ -13,6 +13,6 @@ Hobbies:
 - :computer: Sunday games afternoon 
 
 At the moment:
-  - Studying Computer Networking a top-down approach - 6th edition - Jim Kurose, Keith W. Ross
-
+  - (pause) Studying Computer Networking a top-down approach - 6th edition - Jim Kurose, Keith W. Ross
+  - Testing random things
 
